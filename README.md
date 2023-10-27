@@ -90,6 +90,10 @@ This project conducts a comprehensive data analysis on Airbnb listings in Bangko
 #### Contributor
 
 - **[Novta Winkey Pradana]** - Lead Analyst and Project Manager
+Dive into our interactive data story by accessing the dashboard here:
+
+🔗 Explore Dashboard
+https://public.tableau.com/views/Capstone2_16984155162430/dasboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ---
 
